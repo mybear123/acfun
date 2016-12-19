@@ -205,8 +205,40 @@ i.icon{width: 46px;display: inline;}
 
 
 .header .header-banner{
-	height: 180px;position: relative;margin-bottom: 46px;margin-top: -46px;overflow: hidden;
+	margin-top: 5px;position: relative;height: 180px;width: 100%;overflow: hidden;
 }
+.header .header-banner span.point{
+	position: absolute;background: #fff;padding: 10px 20px;border-radius: 6px;line-height: 1;color: #666;border: 1px solid #ccc;z-index: 3;
+}
+
+
+
+.header .nav{
+	z-index: 9;height: 46px;line-height: 46px;font-size: 14px; position: relative;border-bottom: 1px solid #e5e5e5;background: #fff;
+}
+.header .nav .nav-parent{
+	height: 46px;background: #fff;padding: 0 10px;border-radius: 3px 3px 0 0;
+}
+.header .nav .nav-parent ul{
+	height: 46px;overflow: hidden;
+}
+.header .nav li{
+	margin-right: 42px;
+	float: left;
+}
+.header .nav li:last-of-type{
+	margin-right: 0;
+}
+.header .nav .nav-rank{
+	float: right;
+	right: 
+}
+.header .nav .nav-rank:before{
+	content: url(iconfont-rank.png);
+	top: 4px;
+	position: relative;
+}
+
 
 
 
