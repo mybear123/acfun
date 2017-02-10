@@ -8,7 +8,7 @@ a{
 	text-decoration: none;
 	outline: none;
 	color: #333;
-} 
+}
 a:hover{
 	color: #fd4c5d;
 }
@@ -158,7 +158,7 @@ i.icon{
 	color: #fd4c5d;
 }
 .header .app-download span:before{
-	content: url(iconfont-download.png);
+	content: url(images/iconfont-download.png);
 	position: relative;
 	top: 5px;
 	}
@@ -211,7 +211,7 @@ i.icon{
 .search-box .icon{width: 30px;height: 32px;top: 0;left: 0;position: absolute;}
 .search-box .search-btn i.icon:before{font-size: 16px;}
 .search-box .icon:before{font-size: 14px;color: #fff;}
-.icon-search:before{content: url(iconfont-search.png);}
+.icon-search:before{content: url(images/iconfont-search.png);}
 
 
 
@@ -245,7 +245,7 @@ i.icon{
 	float: right;
 }
 .header .nav .nav-rank:before{
-	content: url(iconfont-rank.png);
+	content: url(images/iconfont-rank.png);
 	top: 4px;
 	position: relative;
 }
@@ -462,13 +462,13 @@ i.icon{
 	display: inline;
 }
 .icon-crown:before{
-	content: url(iconfont-huangguan1.png);
+	content: url(images/iconfont-huangguan1.png);
 }
 .icon-crown2:before{
-	content: url(iconfont-huangguan2.png);
+	content: url(images/iconfont-huangguan2.png);
 }
 .icon-crown3:before{
-	content: url(iconfont-huangguan3.png);
+	content: url(images/iconfont-huangguan3.png);
 }
 .area-banana-rank .banana-ad{
 	overflow: hidden;border-radius: 3px;
@@ -575,7 +575,7 @@ i.icon{
 	font-size: 12px;
 }
 .icon-arrow-slim-right:before{
-	content: url(iconfont-right.png);
+	content: url(images/iconfont-right.png);
 }
 
 
@@ -589,7 +589,7 @@ i.icon{
 	font-size: 14px;position: absolute;left: 7px;top: 4px;width: 14px;height: 14px;line-height: 14px;overflow: hidden;
 }
 .icon-loading:before{
-	content: url(iconfont-refresh.png);
+	content: url(images/iconfont-refresh.png);
 }
 .area .area-change-btn em{
 	position: absolute;left: 26px;top: 0;font-size: 12px;
@@ -604,7 +604,7 @@ i.icon{
 	margin-left: 2px;display: inline-block;width: 50px;height: 16px;font-size: 12px;
 }
 .icon-arrow-slim-right-red:before{
-	content: url(iconfont-right-red.png);
+	content: url(images/iconfont-right-red.png);
 }
 .area-channel .area-channel-big .area-recommend{
 	width: 270px;
@@ -656,7 +656,7 @@ i.icon{
 	color: #fff;position: absolute;top: 8px;left: 12px;font-size: 26px;
 }
 .icon-triangle-right:before{
-	content: url(iconfont-right-play.png);
+	content: url(images/iconfont-right-play.png);
 }
 
 .module-video-big em{
@@ -670,11 +670,11 @@ i.icon{
 }
 
 .icon-view-player:before{
-	content: url(iconfont-play.png);
+	content: url(images/iconfont-play.png);
 	margin-right: 5px;position: relative;top: -2px;
 }
 .icon-danmu:before{
-	content: url(iconfont-danmu.png);
+	content: url(images/iconfont-danmu.png);
 	top: -2px;position: relative;margin-left: 20px;
 }
 
@@ -749,7 +749,7 @@ i.icon{
 	margin-bottom: 12px;
 }
 .icon-comments:before{
-	content: url(iconfont-tank.png);
+	content: url(images/iconfont-tank.png);
 }
 .module-rank .module-con li > span{
 	width: 28px;height: 30px;line-height: 30px;overflow: hidden;position: absolute;left:0;top: 0;
@@ -764,7 +764,7 @@ i.icon{
 }
 .module-rank .module-footer a.more{height: 28px;}
 .icon-arrow-slim-right:before{
-	content: url(iconfont-right.png);
+	content: url(images/iconfont-right.png);
 }
 
 .time-line{
